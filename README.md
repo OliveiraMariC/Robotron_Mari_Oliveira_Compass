@@ -2,7 +2,7 @@
 > STATUS DO PROJETO
 
 
-# Este projeto tem como objetivos principais:
+# OBJETIVOS
 
  *  Introdução a Lógica e Sintaxe PYTHON. 
  *  Manipulação de Dados usando PYTHON. 
