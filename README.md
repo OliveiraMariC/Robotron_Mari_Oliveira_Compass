@@ -8,8 +8,9 @@
  *  Manipulação de Dados usando PYTHON. 
  *  Gerenciamento de Código com GIT e GITHUB. 
  
-# Pré requisitos
-Aqui são listados os links para a instalação dos mesmos do sistema operacional Windows e também para Linux e mecOS.  
+# SISTEMA
+
+* Windows 10/11 Linux e mecOS.  
 https://git-scm.com/download/win
 git%20version%202.35.1.windows.2
 https://code.visualstudio.com/docs/?dv=win
