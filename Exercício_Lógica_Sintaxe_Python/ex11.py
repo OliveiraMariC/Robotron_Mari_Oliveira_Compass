@@ -1,3 +1,5 @@
+#https://www.youtube.com/watch?v=L1Qnyna43rU
+
 def linha():
     print('-=-' * 25)
 

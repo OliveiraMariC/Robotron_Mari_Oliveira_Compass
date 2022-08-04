@@ -18,11 +18,11 @@ contador = 0
 
 for valor in range(x, valor ):
     if valor % 2 == 1:
-        contador += 2
+        contador += 1
         print(valor)
 
 linha()
 
-print('Na sequência de', x, 'a', valor, 'temos', contador, 'ÍMPARES.')
+print('Na sequência de', x, 'a', valor, 'temos', contador, 'ÍMPAR(S).')
 
 linha()

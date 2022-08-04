@@ -2,14 +2,14 @@ import _json
 import json
 
 def json_retornar():
-    with open('json2.json', encoding = 'utf8') as json_2:
-        json_manipulavel = json.load(json_2)
+    with open.JSONDecodeError('json1.json', encoding = 'utf8') as json_1:
+        json_manipulavel = json.load(json_1)
         return json_manipulavel
         
 partida = json_retornar()
 
 
-campeonato = partida['copa-do-brasil'][0]
+campeonato = partida['copa-do-brasil']
 mandante = campeonato['time_mandante']
 visitante = campeonato['time_visitante']
 

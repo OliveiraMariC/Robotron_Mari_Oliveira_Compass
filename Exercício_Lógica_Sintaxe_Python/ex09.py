@@ -1,13 +1,15 @@
 def linha():
-    print('-=-' * 16)
+    print('-=-' * 18)
 
 
 linha()
-print("Digite 15 números inteiros. ")
+print("\nDigite 15 números inteiros. ", '\n')
 linha()
 
-lista = [int(input("Número: "))
-         for i in range(15)]
+lista = [int(input("\nNúmero: "))
+         for i in range(0,15)]
 
 lista.reverse()
-print("A lista invertida dos números fica assim:\n", lista)
+linha()
+print("\nA lista invertida dos números fica assim:", lista)
+linha()

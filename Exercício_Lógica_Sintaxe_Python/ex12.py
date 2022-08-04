@@ -1,11 +1,11 @@
-nome = (input('Qual seu nome?\n'))
-idade = int(input("Qual sua a idade?\n"))
+#https://www.youtube.com/watch?v=TgdnbnmT44s
 
-anos = idade // 365
-idade %= 365
-meses = idade // 30
-idade %= 30
+idade = int(input('Digite sua idade multiplicada por 365: '))
 
-print(nome, idade, anos, meses, "ano(s)")
-#print(meses, "mes(es)")
-#print(idade, "dia(s)")
+anos = (idade // 365)
+meses = (idade % 365) // 30
+dias = (idade % 365) % 30
+
+print('{} ano(s)'.format(anos))
+print('{} mes(es)'.format(meses))
+print('{} dia(s)'.format(dias))

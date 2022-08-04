@@ -1,3 +1,4 @@
+#https://www.youtube.com/watch?v=q8Z1cRdJnfk
 def linha():
     print('-=-' * 16)  
 lista_fruteira = ['maçã', 'banana', 'pera']

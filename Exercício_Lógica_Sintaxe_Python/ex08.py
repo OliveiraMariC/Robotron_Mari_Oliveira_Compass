@@ -1,3 +1,5 @@
+#chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/
+# http://netto.ufpel.edu.br/lib/exe/fetch.php?media=listadeexercicios4-aula6-7-8-solucao.pdf
 def linha():
     print('-=-' * 21)
 
@@ -15,7 +17,7 @@ def fat(num):
 
 
 def tabuada(n):
-    print('\nSeu número é ímpar vou te apresentar a tabuada deste número é:\n')
+    print('\nSeu número é ímpar vou te apresentar a tabuada deste número:\n')
     linha()
     for i in range(0, 11):
         mult = i * n
