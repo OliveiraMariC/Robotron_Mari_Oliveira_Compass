@@ -1,3 +1,4 @@
 {
-    "workbench.experimental.editSessions.enabled": true
+    "workbench.experimental.editSessions.enabled": true,
+    "python.terminal.executeInFileDir": true
 }
