@@ -1,10 +1,12 @@
+#Pedro que nos deu a dica de como corrigir o erro YEAR com .map e não .astype
+
 import pandas as pd
 def linha():
     print('=-=' * 22)
-vencedores = pd.read_csv('Exercícios_Manipulação_Arquivos_Python\Oscar.csv', encoding='UTF-8', sep=',')
 
-vencedores['Movie_Year'] = vencedores['Movie'] + " " + vencedores['Year'].astype(str)
+filmes = pd.read_csv('Exercícios_Manipulação_Arquivos_Python\Oscar.csv', encoding="utf-8", sep=",")
+
+filmes["filme_ano"] = filmes["Movie"] + " - " + filmes["Year"].map(str)
 linha()
-
-print(vencedores['Movie_Year'])
+print(filmes["filme_ano"])
 linha()

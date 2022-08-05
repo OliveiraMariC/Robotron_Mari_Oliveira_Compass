@@ -1,0 +1,17 @@
+Coluna;Nome;Simbolo;Natomico;EF
+1;Hydrogen;H;1;Gas
+2;Helium;He;1;Gas
+3;Lithium;Li;2;Solid
+4;Beryllium;Be;2;Solid
+5;Boron;B;2;Solid
+6;Carbon;C;2;Solid
+7;Nitrogen;N;2;Gas
+8;Oxygen;O;2;Gas
+9;Fluorine;F;2;Gas
+10;Neon;Ne;2;Gas
+11;Sodium;Na;3;Solid
+12;Magnesium;Mg;3;Solid
+13;Aluminium;Al;3;Solid
+14;Silicon;Si;3;Solid
+15;Phosphorus;P;3;Solid
+;;;;
