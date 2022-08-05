@@ -30,15 +30,15 @@
 
 ## AGRADECIMENTOS
 
- *	Agradeço imensamente aos meus colegas de estágio Manoella Souza, 
-  Paulo Henrique Conte, Pedro Favareto Gaya, Laura Gehrke, pela ajuda 
-  que recebi.
+ * Agradeço imensamente aos meus colegas de estágio Manoella Souza, 
+   Paulo Henrique Conte, Pedro Favareto Gaya, Laura Gehrke, pela ajuda 
+   que recebi.
 
  * A Larissa Campos nossa Evangelista por toda a atenção prestada.
 
  * A COMPASS.uol por nos oferecer essa trilha de aprendizado diretamente com
-  auxílio de seus profissionais.
+   auxílio de seus profissionais.
 
- *	Sites utilizados como referência que serão encontrados dentro dos códigos
+ * Sites utilizados como referência que serão encontrados dentro dos códigos.
 	
 
