@@ -6,7 +6,7 @@ def linha():
 
 
 def retornar_json():
-    with open("Exercícios_Manipulação_Arquivos_Python\json1.json", encoding="utf-8") as json_normal:
+    with open("Robotron_Mari_Oliveira_Compass\Exercícios_Manipulação_Arquivos_Python\json1.json", encoding="utf-8") as json_normal:
         json_manipulavel = json.load(json_normal)
         return json_manipulavel
 
